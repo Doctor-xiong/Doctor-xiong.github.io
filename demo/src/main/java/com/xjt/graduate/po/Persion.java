@@ -1,4 +1,4 @@
-package com.springbootmybatis.demo.dao;
+package com.xjt.graduate.dao;
 
 import lombok.*;
 
